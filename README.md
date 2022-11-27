@@ -1,2 +1,1 @@
-# Kid Garden №70
- Web site for dou70
+# Kid Garden Website
